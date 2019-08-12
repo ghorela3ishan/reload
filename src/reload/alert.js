@@ -1,0 +1,1 @@
+alert("This is from 1.0.0.js file, if the page has reloded it means that the current version of this file doesnt match with that on server");
